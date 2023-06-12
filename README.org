@@ -1,0 +1,10 @@
+* eventfd
+
+Eventfd bindings
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/deadtrickster/eventfd.git   |
+| commit  | e0fb107  |
+| systems | eventfd |
+|---------+-------------------------------------------|
+
